@@ -212,8 +212,8 @@ body {
 .abt-res {
     width: 200%;
     height: auto;
-    max-width: 492px;
-    max-height: 492px;
+    max-width: 300px;
+    max-height: 500px;
     border-radius: 100px;
     /*box-shadow: 0 0 5pc cyan, 0 0 5px cyan, 0 0 10px cyan;*/
     border: #0ef 5px solid;
